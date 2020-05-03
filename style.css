@@ -1,0 +1,84 @@
+body {
+  font-family:'Courier New', Courier, monospace;
+  font-size: 16px;
+  line-height: 1;
+  background-image: url(https://www.publicdomainpictures.net/pictures/130000/velka/gray-top-gradient-background.jpg);
+}
+
+textarea{
+  background: transparent;
+  border: none;
+  font-family: cursive;
+  resize: none;
+  color: white;
+  border-left: 1px solid rgb(255, 255, 255);
+  padding: 10px;
+}
+
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  background-image: url(https://d3vov59dtog46z.cloudfront.net/wp-content/uploads/2018/02/23085637/global-business-banner-1024x419.jpg);
+  border-radius: 0;
+  border-bottom: 5px solid black;
+}
+
+.description{
+  white-space: pre-wrap;
+}
+
+.time-block{
+  text-align: center;
+  font-family: cursive;
+  
+}
+
+
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid black;;
+}
+
+.hour {
+  background-color: #ecebeb;
+  color: #000000;
+  font-size: 36px;
+  font-style: oblique;
+  
+}
+
+.past {
+  background-color:#ecebeb;
+  font-size: 1.5rem;
+  color:black;
+}
+
+.present {
+  background-color:rgb(117, 117, 245);
+  color: white;
+  font-size: 1.5rem;
+}
+
+.future {
+  background-color: #2b492b;
+  color: white;
+}
+
+
+
+.btn-success i:hover {
+  font-size: 40px;
+  transition: all .3s ease-in-out;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 900;
+  
+.display-3 {
+  font-size: 6.5rem;
+  font-weight: 300;
+  line-height: 1.2;
